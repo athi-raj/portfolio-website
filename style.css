@@ -257,9 +257,9 @@ hr {
 .project{
     margin: 160px 200px;
     display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: left;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .project p{
