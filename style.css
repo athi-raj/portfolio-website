@@ -94,7 +94,7 @@ header {
 }
 
 .info-p {
-  color: #0FFF50;
+  color: #222;
   font-family: "Roboto", sans-serif;
   padding-bottom: 20px;
 }
@@ -137,7 +137,7 @@ header {
 
 .btn-home2:hover{
     background-color: #000000;
-    color: #0FFF50;
+    color: #fff;
 }
 
 hr {
