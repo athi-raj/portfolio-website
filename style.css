@@ -260,13 +260,17 @@ hr {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding-bottom: 30px;
+    font-size: 13px;
+    color: rgb(50, 50, 50);
 }
 
 .project p{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     font-size: 13px;
-    color: rgb(50, 50, 50); 
-}
+    color: rgb(50, 50, 50);
+} 
+
 
 .project h1{
     font-family: "Open Sans", sans-serif;
