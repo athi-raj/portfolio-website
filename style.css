@@ -254,7 +254,7 @@ hr {
 }
 
 
-.project{
+.projects{
     margin: 160px 200px;
     display: flex;
     align-items: center;
@@ -265,20 +265,20 @@ hr {
     color: rgb(50, 50, 50);
 }
 
-.project p{
+.projects p{
     margin-bottom: 30px;
     font-size: 13px;
     color: rgb(50, 50, 50);
 } 
 
 
-.project h1{
+.projects h1{
     font-family: "Open Sans", sans-serif;
     padding-bottom: 10px;
     text-align: left;
 }
 
-.project hr{
+.projects hr{
     width: 10%;
 }
 
