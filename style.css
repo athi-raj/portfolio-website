@@ -744,7 +744,7 @@ body {
 
 /* Responsive for tablets and phones */
 @media (max-width: 1024px) {
-  .home, .about, .project, .services, .contact {
+  .home, .about, .projects, .services, .contact {
     margin: 120px 50px;
   }
 
@@ -771,7 +771,7 @@ body {
     display: none;
   }
 
-  .home, .about, .project, .services, .contact {
+  .home, .about, .projects, .services, .contact {
     margin: 100px 20px;
   }
 
@@ -814,7 +814,7 @@ body {
     display: none;
   }
 
-  .home, .about, .project, .services, .contact {
+  .home, .about, .projects, .services, .contact {
     margin: 20px auto;
     padding: 0 15px;
     text-align: center;
@@ -863,7 +863,7 @@ body {
 
   .info-home h1 { font-size: 26px; }
   .info-home h3 { font-size: 18px; }
-  .info-p, .info-p2, .home-p, .about p, .project p, .service-card p, .contact p {
+  .info-p, .info-p2, .home-p, .about p, .projects p, .service-card p, .contact p {
     font-size: 14px;
   }
   .project-card h3, .service-card h3 { font-size: 16px; }
